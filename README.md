@@ -35,4 +35,3 @@ A hands-on product teardown of Subspace.money covering 5 feedbacks across 5 prod
 
 ---
 
-📄 [View Full Submission](https://github.com/yourusername/subspace-product-teardown/blob/main/Subspace_Product_Teardown_Ankit.pdf)
